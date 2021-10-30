@@ -1,5 +1,12 @@
-# Bloco_de_Notas_em_Python
+<h1 align="center">
+Bloco de notas
+</h1>
 
-Bloco de Notas usando a biblioteca PySimpleGUI do python
+## Techs
+
+- [x] Python
+- [x] PySimpleGUI
+
+## Bloco de Notas usando a biblioteca PySimpleGUI do python
 
 ![Foto do bloco de Notas](BlocoNotas.png)
